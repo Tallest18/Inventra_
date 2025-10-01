@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "548355159933",
+    "project_id": "wonderfall-be388",
+    "storage_bucket": "wonderfall-be388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548355159933:android:f643f8c91a1cfcaea63e14",
+        "android_client_info": {
+          "package_name": "INVENTRA2.W"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548355159933-q4mck6mv48rs4nk83rn4nqui4pqs37jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "INVENTRA2.W",
+            "certificate_hash": "40ad26dc4390e46ddda10692d022f9302543fe61"
+          }
+        },
+        {
+          "client_id": "548355159933-rg0pnd20eru3aql2fu7pqqk7opl8u8sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKxvjzrgxn0oyGS8arRtZgyfU3CBgDvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548355159933-rg0pnd20eru3aql2fu7pqqk7opl8u8sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "548355159933-lcqieh129u0u9vm82j71us7koncocafu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "INVENTRA2.W"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
